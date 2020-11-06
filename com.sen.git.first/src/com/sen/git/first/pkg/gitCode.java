@@ -6,6 +6,7 @@ public class gitCode {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test Git package");
+		System.out.println("Test Git package");
 
 	}
 
